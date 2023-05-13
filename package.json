@@ -18,7 +18,7 @@
     "lint": "eslint src --ext js,jsx --report-unused-disable-directives --max-warnings 0",
     "preview": "vite preview",
     "dev:client": "vite",
-    "dev:server": "nodemon server/index.js"
+    "dev:server": "node index.js"
   },
   "keywords": [],
   "author": "",
