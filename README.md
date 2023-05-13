@@ -1,1 +1,2 @@
-# Expense-App
+# Expense-Tracker
+npm run dev
