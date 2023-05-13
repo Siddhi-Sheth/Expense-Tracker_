@@ -5,7 +5,6 @@ const dotenv = require('dotenv')
 const colors = require('colors')
 const path = require('path')
 const connectDB = require('./config/connectDB')
-const path = require('path')
 
 // config dot env file
 dotenv.config();
